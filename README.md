@@ -8,7 +8,7 @@ My name is Kleber Magno, just call me Kleber. I'm always looking for something n
 
 ![Klebermagno's trophy](https://github-profile-trophy.vercel.app/?username=klebermagno&theme=nord&column=7&margin-w=10&margin-h=15)
 
-
+![Certificate](documentation/certificate-cloud-developer-google-cloud.png "Certificate")
 
 ## Get in Touch
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
